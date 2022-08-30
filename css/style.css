@@ -21,6 +21,12 @@ nav {
   display: flex;
   height: 60px;
   background-color: #a2cbb6;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+div {
   font-size: 20px;
   font-weight: bold;
   margin: 10px;
