@@ -16,3 +16,13 @@ body {
   font-family: sans-serif;
   margin: 0;
 }
+
+nav {
+  display: flex;
+  height: 60px;
+  background-color: #a2cbb6;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+  color: #f3dba8;
+}
