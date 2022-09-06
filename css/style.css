@@ -26,8 +26,13 @@ nav {
   justify-content: flex-start;
 }
 
-nav > div:last-child {
+nav > div:last-of-type {
   margin-left: auto;
+}
+
+nav > img {
+  border-radius: 7px;
+  margin: 0 10px;
 }
 
 div {
